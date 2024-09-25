@@ -1,1 +1,1 @@
-# GitHub repository template
+# ScratchAid

@@ -1,0 +1,68 @@
+{
+  "Metadata": {
+    "title": "ScratchAid",
+    "description": "ScratchAid is a dedicated helpdesk service that allows Scratch users to easily manage bug reports and questions related to their projects. By incorporating features similar to GitHub Issues, it provides a platform for visualizing, tracking, and efficiently resolving problems that arise in projects."
+  },
+  "PageError": {
+    "title": "Unknown error",
+    "retry": "Retry"
+  },
+  "PageNotFound": {
+    "title": "Page not found"
+  },
+  "Theme": {
+    "Toggle theme": "Toggle theme",
+    "Mode": "Mode",
+    "Light": "Light",
+    "Dark": "Dark",
+    "System": "System"
+  },
+  "Languages": {
+    "Language": "Language",
+    "Select a language": "Select a language"
+  },
+  "SearchCommand": {
+    "Search website&#46;&#46;&#46;": "Search website...",
+    "Search&#46;&#46;&#46;": "Search...",
+    "No results found&#46;": "No results found.",
+    "Type a command or search&#46;&#46;&#46;": "Type a command or search...",
+    "items": {
+      "Pages": "Pages",
+      "Home": "Home",
+      "About": "About"
+    }
+  },
+  "Footer": {
+    "footerText": "Copyright © 2024 Fun117. All rights reserved.",
+    "items": {
+      "Resources": "Resources",
+      "Docs": "Docs",
+      "Learn": "Learn",
+      "Showcase": "Showcase",
+      "Blog": "Blog",
+      "Analytics": "Analytics",
+      "Next&#46;js Conf": "Next.js Conf",
+      "Previews": "Previews",
+      "More": "More",
+      "Next&#46;js Commerce": "Next.js Commerce",
+      "Contact Sales": "Contact Sales",
+      "Releases": "Releases",
+      "Telemetry": "Telemetry",
+      "Governance": "Governance",
+      "About Vercel": "About Vercel",
+      "Next&#46;js + Vercel": "Next.js + Vercel",
+      "Open Source Software": "Open Source Software"
+    }
+  },
+  "ui": {
+    "heroes": {
+      "Developing a new service for Scratch users": "Developing a new service for Scratch users.",
+      "description": "ScratchAid is a dedicated helpdesk service that allows Scratch users to easily manage bug reports and questions related to their projects. By incorporating features similar to GitHub Issues, it provides a platform for visualizing, tracking, and efficiently resolving problems that arise in projects.",
+      "View repository": "View repository",
+      "View contributors": "View contributors",
+      "Learn more": "Learn more"
+    }
+  },
+  "Home": "Home",
+  "About": "About"
+}

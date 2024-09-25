@@ -1,0 +1,68 @@
+{
+  "Metadata": {
+    "title": "ScratchAid",
+    "description": "ScratchAidは、Scratchユーザーがプロジェクトに関するバグ報告や質問を簡単に管理できる専用のヘルプデスクサービスです。GitHubのIssuesのような機能を取り入れることで、プロジェクトで発生した問題を視覚化し、追跡し、効率的に解決するためのプラットフォームを提供します。"
+  },
+  "PageError": {
+    "title": "不明なエラーが発生",
+    "retry": "リトライ"
+  },
+  "PageNotFound": {
+    "title": "ページが見つかりません"
+  },
+  "Theme": {
+    "Toggle theme": "テーマを切り替える",
+    "Mode": "モード",
+    "Light": "ライト",
+    "Dark": "ダーク",
+    "System": "システム"
+  },
+  "Languages": {
+    "Language": "言語",
+    "Select a language": "言語を選択"
+  },
+  "SearchCommand": {
+    "Search website&#46;&#46;&#46;": "サイト内検索...",
+    "Search&#46;&#46;&#46;": "検索...",
+    "No results found&#46;": "結果は見つかりませんでした。",
+    "Type a command or search&#46;&#46;&#46;": "コマンドの入力または検索...",
+    "items": {
+      "Pages": "ページ",
+      "Home": "ホーム",
+      "About": "概要"
+    }
+  },
+  "Footer": {
+    "footerText": "著作権 © 2024 Fun117. 無断複写・転載を禁じます",
+    "items": {
+      "Resources": "リソース",
+      "Docs": "ドキュメント",
+      "Learn": "学ぶ",
+      "Showcase": "ショーケース",
+      "Blog": "ブログ",
+      "Analytics": "アナリティクス",
+      "Next&#46;js Conf": "Next.jsカンファレンス",
+      "Previews": "プレビュー",
+      "More": "その他",
+      "Next&#46;js Commerce": "Next.js コマース",
+      "Contact Sales": "コンタクトセールス",
+      "Releases": "リリース",
+      "Telemetry": "テレメトリ",
+      "Governance": "ガバナンス",
+      "About Vercel": "Vercelについて",
+      "Next&#46;js + Vercel": "Next.js + Vercel",
+      "Open Source Software": "オープンソースソフトウェア"
+    }
+  },
+  "ui": {
+    "heroes": {
+      "Developing a new service for Scratch users": "Scratchの利用者向けに新たらサービスを開発中です。",
+      "description": "ScratchAidは、Scratchユーザーがプロジェクトに関するバグ報告や質問を簡単に管理できる専用のヘルプデスクサービスです。GitHubのIssuesのような機能を取り入れることで、プロジェクトで発生した問題を視覚化し、追跡し、効率的に解決するためのプラットフォームを提供します。",
+      "View repository": "リポジトリを見る",
+      "View contributors": "貢献者を見る",
+      "Learn more": "さらに詳しく"
+    }
+  },
+  "Home": "ホーム",
+  "About": "概要"
+}
